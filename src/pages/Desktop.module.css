@@ -1,0 +1,242 @@
+.contactMeChild {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.letMeKnow {
+  margin: 0;
+}
+.letMeKnowContainer {
+  margin: 0;
+  position: absolute;
+  top: 56px;
+  left: 0;
+  font-size: inherit;
+  line-height: 52px;
+  font-weight: 500;
+  font-family: inherit;
+}
+.contactMe1 {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-red-hat-display);
+  color: var(--color-darkorchid);
+}
+.groupChild {
+  position: absolute;
+  top: 34px;
+  left: 0;
+  background-color: var(--color-darkorchid);
+  width: 50px;
+  height: 2px;
+}
+.letMeKnowIfYouWantToTalParent {
+  position: absolute;
+  top: 50px;
+  left: 165px;
+  width: 512px;
+  height: 212px;
+}
+.infonamemailcom {
+  text-decoration: underline;
+  position: absolute;
+  top: 104px;
+  left: 1052px;
+  font-size: 24px;
+  text-transform: lowercase;
+  color: var(--color-darkorchid);
+}
+.whatsYourName {
+  border: 0;
+  font-family: var(--font-red-hat-display);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--color-darkgray);
+  text-align: left;
+}
+.groupItem,
+.whatsYourNameParent {
+  position: absolute;
+  left: 0;
+  width: 1110px;
+}
+.groupItem {
+  top: 43px;
+  background-color: var(--color-lavender);
+  height: 1px;
+}
+.whatsYourNameParent {
+  top: 0;
+  height: 44px;
+}
+.groupIcon,
+.tellMeAboutYourProjectParent,
+.yourEmailParent {
+  position: absolute;
+  top: 89px;
+  left: 0;
+  width: 1110px;
+  height: 44px;
+}
+.groupIcon,
+.tellMeAboutYourProjectParent {
+  top: 178px;
+}
+.groupIcon {
+  height: 43.76%;
+  width: 50.01%;
+  top: 28.12%;
+  right: 24.99%;
+  bottom: 28.12%;
+  left: 25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.biarrowRightShort,
+.groupIcon1 {
+  position: absolute;
+  top: 0;
+  overflow: hidden;
+}
+.biarrowRightShort {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 34px;
+  width: 30px;
+  height: 30px;
+}
+.groupIcon1 {
+  height: 99.59%;
+  width: 91.95%;
+  right: 7.64%;
+  bottom: 0.4%;
+  left: 0.41%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.teenyiconsattachSolid {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.biarrowRightShortParent,
+.groupParent {
+  position: absolute;
+  top: 252px;
+  left: 1046px;
+  width: 64px;
+  height: 30px;
+}
+.groupParent {
+  top: 312px;
+  left: 165px;
+  width: 1110px;
+  height: 282px;
+}
+.letsBeFriends {
+  position: absolute;
+  top: 724px;
+  left: 591px;
+  font-weight: 500;
+  font-family: var(--font-red-hat-display);
+  text-align: center;
+}
+.rectangleButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkorchid);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 100px;
+  width: 200px;
+  height: 60px;
+}
+.getAQuote {
+  position: absolute;
+  top: 18px;
+  left: 50px;
+  font-weight: 500;
+}
+
+.contactMe,
+.contactMeItem {
+  position: absolute;
+  top: 156.16px;
+  left: 605px;
+  width: 230px;
+  height: 695.84px;
+}
+.contactMe {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 902px;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray);
+  font-family: var(--font-roboto);
+}
+.vectorIcon {
+  position: absolute;
+  height: 2.22%;
+  width: 1.39%;
+  top: 90.58%;
+  right: 55.56%;
+  bottom: 7.21%;
+  left: 43.06%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.desktop {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 902px;
+  overflow: hidden;
+}
+.rectangleButton {
+   position: absolute;
+  top: 564px;
+  left: 165px;
+  width: 200px;
+  height: 60px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-red-hat-display);
+}
+.whatsYourName {
+  border: 2px solid var(--color-darkgray);
+  font-family: var(--font-red-hat-display);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 330px; /* Змініть відстань відгори на потрібну вам */
+  left: 165px; /* Змініть відстань зліва на потрібну вам */
+  color: var(--color-darkgray);
+  text-align: left;
+  width: 350px; /* Задайте бажану ширину */
+  height: 44px; /* Задайте бажану висоту */
+}
+
+

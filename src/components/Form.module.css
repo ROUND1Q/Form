@@ -1,0 +1,82 @@
+.whatsYourName {
+  border: 0;
+  font-family: var(--font-red-hat-display);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: var(--color-darkgray);
+  text-align: left;
+}
+.groupChild {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  background-color: var(--color-lavender);
+  width: 1110px;
+  height: 1px;
+}
+.tellMeAboutYourProjectParent,
+.whatsYourNameParent,
+.yourEmailParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1110px;
+  height: 44px;
+}
+.tellMeAboutYourProjectParent,
+.yourEmailParent {
+  top: 89px;
+}
+.tellMeAboutYourProjectParent {
+  top: 178px;
+}
+.biarrowRightShort,
+.groupIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.groupIcon {
+  height: 43.76%;
+  width: 50.01%;
+  top: 28.12%;
+  right: 24.99%;
+  bottom: 28.12%;
+  left: 25%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.biarrowRightShort {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 34px;
+  width: 30px;
+  height: 30px;
+}
+.teenyiconsattachSolid {
+  position: absolute;
+  top: 6px;
+  left: 0;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+}
+.biarrowRightShortParent,
+.groupParent {
+  position: absolute;
+  top: 252px;
+  left: 1046px;
+  width: 64px;
+  height: 30px;
+}
+.groupParent {
+  top: 312px;
+  left: 165px;
+  width: 1110px;
+  height: 282px;
+}

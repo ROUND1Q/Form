@@ -1,0 +1,46 @@
+.groupChild,
+.whatsYourName {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.groupChild {
+  top: 43px;
+  background-color: var(--color-lavender);
+  width: 1110px;
+  height: 1px;
+}
+.tellMeAboutYourProjectParent,
+.whatsYourNameParent,
+.yourEmailParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1110px;
+  height: 44px;
+}
+.tellMeAboutYourProjectParent,
+.yourEmailParent {
+  top: 89px;
+}
+.tellMeAboutYourProjectParent {
+  top: 178px;
+}
+.groupIcon,
+.groupParent {
+  position: absolute;
+  top: 252px;
+  left: 1046px;
+  width: 64px;
+  height: 30px;
+}
+.groupParent {
+  top: 312px;
+  left: 165px;
+  width: 1110px;
+  height: 282px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkgray);
+  font-family: var(--font-red-hat-display);
+}
